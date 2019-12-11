@@ -17,6 +17,12 @@
 
 ### ◎ 첫 발을 들이다
 [FreeGameDev Forums](https://forum.freegamedev.net) 에서 살펴보던 도중, [Art & Assets](https://forum.freegamedev.net/viewforum.php?f=6)에서 많은 글들 중에 [The “Translators wanted!” thread](https://forum.freegamedev.net/viewtopic.php?f=6&t=11388) 라는 제목과 함께 올라온 글을 보았고 번역을 하고 싶은 나에게 딱 좋은 글이였다.  
-그래서 이 사이트에 가입을 하려고 회원가입을 하였는데 빨간 공지와 함께 가입인사글을 남겨야 한다고 되어있어서 "Hi i'm krumaska, from Korea" 와 함께 작성하여 업로드 했다.
-
-  ##### ○ 요청
+그래서 이 사이트에 가입을 하려고 회원가입을 하였는데 빨간 공지와 함께 가입인사글을 남겨야 한다고 되어있어서 "Hi i'm krumaska, from Korea" 와 함께 작성하여 업로드 했다.  
+![Introduce_yourself_img](https://user-images.githubusercontent.com/51515055/70618204-97a21080-1c55-11ea-86b6-aeb5c7dafb4e.PNG)
+  ##### ○ 한국인?
+  그 다음 날 확인을 해봤는데, 한국인이라는 말에 금시초문인 반응이였다.  
+  아무래도 이 커뮤니티 사이트가 잘 알려지지 않은데다가 한국인은 처음이라 그랬던거 같다.  
+  질문은 이랬다. **무엇이 너를 이 사이트에 오게 만들었는가?**  
+  그래서 현재 1학년 수업인 오픈소스 수업을 듣고 있고, 첫 기여를 하고 싶다고 답글을 남겼다.
+  
+  ![reply_img](https://user-images.githubusercontent.com/51515055/70618384-05e6d300-1c56-11ea-8572-4c837d10d987.png)
