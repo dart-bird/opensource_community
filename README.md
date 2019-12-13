@@ -5,7 +5,7 @@
 현재 수준에서 코드작성, 오류 발견 등 난이도는 어려워서 접하기 쉬운 번역을 하기로 했다.  
 취미가 게임이기에 게임 관련 주제로 서치를 해봤다.
 
-### ◎ 탐방
+### ◎ 살펴보기
 서치를 하던 도중, 오픈소스 게임 커뮤니티 사이트, [FreeGameDev Forums](https://forum.freegamedev.net) 를 발견함.
 * [Art & Assets](https://forum.freegamedev.net/viewforum.php?f=6) - **게임 디자인 게시판**
 * [Design & Ideas](https://forum.freegamedev.net/viewforum.php?f=5) - **게임 아이디어 게시판**
@@ -34,4 +34,4 @@
 라는 답변을 받았고 위에서 찾았던 글을 소개해 주었다.  이에 답변에 고맙다는 표시를 했다.  
 대부분 여기서 처음 시작하는거 같다.
 
-### ◎ 시작  
+### ◎ 탐방 시작  
