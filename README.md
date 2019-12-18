@@ -34,4 +34,16 @@
 라는 답변을 받았고 위에서 찾았던 글을 소개해 주었다.  이에 답변에 고맙다는 표시를 했다.  
 대부분 여기서 처음 시작하는거 같다.
 
-### ◎ 탐방 시작  
+### ◎ 탐방후 시작  
+[The “Translators wanted!” thread](https://forum.freegamedev.net/viewtopic.php?f=6&t=11388) 이글에서 번역할 게임을 찾던 도중에 opensurge라는 이름의 소닉게임처럼 만든 오픈소스 게임을 알게되었다.  
+![opensurge_translation_wanted](https://user-images.githubusercontent.com/51515055/71114368-f4339b80-2212-11ea-8500-38ad25176102.png)  
+위 사진과 같이 번역을 모집하고 있었고 들어가보니 한국어로 번역된 파일이 없었다.  
+그리고 가이드 [opensurge 번역가이드](http://opensnc.sourceforge.net/wiki/index.php/Translation_Guide) 가 있어서 읽어 보았는데, english.lng 파일을 기준으로 번역해서 pull request 요청을 하라고 적혀져 있었다.
+그래서 같은 목적으로 기여하는 친구와 함께 반반 나눠서 lng 파일을 번역하기로 했다.  
+
+### ◎ 시작부터...
+시작부터 앞서서 lng파일을 보니  
+`LANG_AUTHOR                 "Alexandre Martins"       // translation author`  
+위 문구와 함께 번역자 이름을 적는공간이 있었는데, 이것을 친구와 같이할 경우에는 어떻게 표기를 해야하는지 가이드라인에는 없어서 이메일을 통해 질문을 해보았다.  
+![image](https://user-images.githubusercontent.com/51515055/71115197-bf284880-2214-11ea-8406-ea7d25d8ca46.png)  
+위 사진은 질문을 하고 답장을 얻은 사진인데, 일단 굉장히 친절하게 답변을 해주었고 번역에 대한 환영을 해주었다.  그래서 답장으로 고맙다고 말하고 최선을 다 해보겠다고 말했다.  
