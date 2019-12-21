@@ -58,7 +58,7 @@
 마지막으로 내가 제안한대로 적용을 시켜주었고, 이에 대해 감사표시를 했다. 
 
 ### ◎ 해석완료! 그리고 Pull Request
-친구와 함께 해석을 완료한 뒤, [PR](https://github.com/alemart/opensurge/pull/16)을 했다.  
+친구와 함께 과정을 완료한 뒤, [PR](https://github.com/alemart/opensurge/pull/16)을 했다.  
 해석반영이 불가한 비트맵 부분은 추후에 원하면 반영하라고 주석처리를 통해 남겼다.  
 
 ### ◎ 친구와 함께 이 과정들을 마친 후 ...
