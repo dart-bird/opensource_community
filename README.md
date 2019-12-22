@@ -37,7 +37,7 @@
 ### ◎ 탐방후 시작  
 [The “Translators wanted!” thread](https://forum.freegamedev.net/viewtopic.php?f=6&t=11388) 이글에서 번역할 게임을 찾던 도중에 opensurge라는 이름의 소닉게임처럼 만든 오픈소스 게임을 알게 되었다.  
 ![opensurge_translation_wanted](https://user-images.githubusercontent.com/51515055/71114368-f4339b80-2212-11ea-8500-38ad25176102.png)  
-위 사진과 같이 번역을 모집하고 있었고 들어가 보니 한국어로 번역된 파일이 없었다.  
+위 사진과 같이 번역을 모집하고 있었고 혹시나 해서 모집 중이냐고 이메일도 했다. 들어가 보니 한국어로 번역된 파일이 없었다.  
 그리고 가이드 [opensurge 번역가이드](http://opensnc.sourceforge.net/wiki/index.php/Translation_Guide) 가 있어서 읽어 보았는데, english.lng 파일을 기준으로 번역해서 pull request 요청을 하라고 적혀져 있었다.
 그래서 같은 목적으로 기여하는 친구와 함께 번역하기로 했다
 
